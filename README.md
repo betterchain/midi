@@ -1,0 +1,2 @@
+# midi
+Mine Discovery mechansim
